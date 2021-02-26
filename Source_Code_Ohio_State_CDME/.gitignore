@@ -1,0 +1,7 @@
+# Slicer is intended to be manually downloaded
+x64/
+OASIS_baseline.VC.db
+
+.vs/OASIS_baseline/v14/.suo
+
+OASIS_baseline.VC.VC.opendb
